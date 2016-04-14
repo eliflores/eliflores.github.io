@@ -14,3 +14,14 @@
     padding: 50px 0;
     border-bottom: 10px solid #fff;
 }
+
+.code-to-me {
+	color: #778899;
+	padding-top: 30px;
+}
+
+.uabc-view {
+	background-image: url("../img/ensenadita-uabc.png");
+	width: 1000px;
+    height: 330px;
+}
