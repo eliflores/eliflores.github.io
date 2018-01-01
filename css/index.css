@@ -1,21 +1,25 @@
 .container {
-	margin-top: 10px;
+    margin-top: 10px;
 }
 
 .footer {
-	padding-top: 19px;
-	color: #777;
-	text-align: center;
+    padding-top: 19px;
+    color: #777;
+    text-align: center;
 }
 
 .page-section {
-	width: 100%;
+    width: 100%;
     min-height: 800px;
     padding: 50px 0;
     border-bottom: 10px solid #fff;
 }
 
 .code-to-me {
-	color: #778899;
-	padding-top: 30px;
+    color: #778899;
+    padding-top: 30px;
+}
+
+#favorite-books {
+    margin: 20px 20px 30px 20px;
 }
